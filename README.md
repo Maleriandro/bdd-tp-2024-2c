@@ -34,9 +34,9 @@ npm start
 ```
 
 ### Front end
-Ir a la carpeta del front-end:
+En una nueva terminal, ir a la carpeta del front-end:
 ```bash
-cd ../bbd-tp-front
+cd ./bbd-tp-front
 ```
 
 Instala las dependencias del front-end:
